@@ -11,3 +11,7 @@ int main(){
   return 0;
 }
 ```
+
+[x] Added Image to index.md
+[x] Added Code to index.md
+[] Added to do list
