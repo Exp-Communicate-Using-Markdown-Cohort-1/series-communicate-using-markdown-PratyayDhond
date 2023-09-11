@@ -12,6 +12,6 @@ int main(){
 }
 ```
 
-[x] Added Image to index.md
-[x] Added Code to index.md
-[] Added to do list
+- [x] Added Image to index.md
+- [x] Added Code to index.md
+- [ ] Added to do list
